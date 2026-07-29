@@ -1,7 +1,12 @@
+# Asteroids
+
+A recreation of the classic Asteroids arcade game built with Python and Pygame as part of the Boot.dev Backend curriculum.
+
 ## Features
 
-- Ship movement
-- Asteroid splitting
-- Collision detection
+- Ship movement and rotation
 - Projectile system
-- Score-ready architecture
+- Asteroid spawning
+- Collision detection
+- Asteroid splitting
+- Object-oriented architecture
