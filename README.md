@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./asteroids-logo.png"
-       width="90"
+       width="150"
        alt="Asteroids project logo">
 </p>
 
