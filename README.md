@@ -27,8 +27,8 @@
 ## Screenshot
 
 <p align="center">
-  <img src="./assets/asteroids-gameplay.png"
-       width="800"
+  <img src="./assets/gameplay.png"
+       width="700"
        alt="Asteroids gameplay screenshot">
 </p>
 
