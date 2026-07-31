@@ -1,14 +1,19 @@
 <p align="center">
-  <img src="./asteroids-logo.png"
-       width="150"
-       alt="Asteroids project logo">
+  <img src="./asteroids-logo.png" width="150" alt="Asteroids project logo">
 </p>
 
+<h1 align="center">Asteroids</h1>
 
+<p align="center">
+  A recreation of the classic Asteroids arcade game built with Python and Pygame as part of the Boot.dev Backend curriculum.
+</p>
 
-# Asteroids
+## Tech Stack
 
-A recreation of the classic Asteroids arcade game built with Python and Pygame as part of the Boot.dev Backend curriculum.
+- **Python**
+- **Pygame**
+- **uv** for dependency and environment management
+- **Object-oriented programming**
 
 ## Features
 
@@ -18,3 +23,28 @@ A recreation of the classic Asteroids arcade game built with Python and Pygame a
 - Collision detection
 - Asteroid splitting
 - Object-oriented architecture
+
+## Screenshot
+
+<p align="center">
+  <img src="./assets/asteroids-gameplay.png"
+       width="800"
+       alt="Asteroids gameplay screenshot">
+</p>
+
+## How to Run
+
+### Prerequisites
+
+Install:
+
+- Python
+- [uv](https://docs.astral.sh/uv/)
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/antonisloukis/asteroids.git
+cd asteroids
