@@ -36,9 +36,7 @@
 
 ### Prerequisites
 
-Install:
-
-- Python
+- Python 3.12 or newer
 - [uv](https://docs.astral.sh/uv/)
 
 ### Installation
@@ -48,3 +46,16 @@ Clone the repository:
 ```bash
 git clone https://github.com/antonisloukis/asteroids.git
 cd asteroids
+```
+
+Install the dependencies:
+
+```bash
+uv sync
+```
+
+Run the game:
+
+```bash
+uv run main.py
+```
