@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./asteroids-logo.png" width="150" alt="Asteroids project logo">
+  <img src="./asteroids-logo.png" width="170" alt="Asteroids project logo">
 </p>
 
 <h1 align="center">Asteroids</h1>
