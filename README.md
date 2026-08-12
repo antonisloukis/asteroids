@@ -59,3 +59,9 @@ Run the game:
 ```bash
 uv run main.py
 ```
+
+##
+Motivation
+Quick Start
+Usage
+Contributing
